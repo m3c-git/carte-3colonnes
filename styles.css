@@ -1,0 +1,45 @@
+body
+{
+    background-color: hsl(0, 0%, 95%);
+}
+
+.container
+{
+    display: flex;
+    flex-direction:row;
+    columns: 3;
+    height: 500px;
+
+}
+
+.col1
+{
+    display: flex;
+    background-color: hsl(31, 77%, 52%);
+    align-items: center;
+    padding: 20px;
+}
+
+
+.col2
+{
+    display: flex;
+    background-color: hsl(184, 100%, 22%);
+    align-items: center;
+    padding: 20px;
+
+}
+
+.col3
+{    
+    display: flex;
+    background-color: hsl(179, 100%, 13%);
+    align-items: center;
+    padding: 20px;
+
+}
+
+.attribution
+{
+    margin-top: 40px;
+}
