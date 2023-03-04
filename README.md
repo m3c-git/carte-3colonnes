@@ -14,7 +14,9 @@ Il s'agit d'une solution au défi [composant de carte d'aperçu à 3 colonnes su
 ## Aperçu
 
 ### Capture d'écran
+![screenshot1](https://user-images.githubusercontent.com/122054879/222932313-e3614477-3d91-4544-9bfa-a4eed6e65a68.png)
 
+![screenshot2](https://user-images.githubusercontent.com/122054879/222932318-7ab69648-633b-4586-8f87-fb7f7418ae72.png)
 
 
 ## Mon processus
